@@ -1,0 +1,20 @@
+{
+  "name": "wepy-plugin-autoprefixer",
+  "version": "1.0.0",
+  "description": "wepy框架autoprefixer插件",
+  "main": "lib/index.js",
+  "keywords": [
+    "autoprefixer",
+    "wepy"
+  ],
+  "author": "lixianfeng0917@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/li-xianfeng/wepy-plugin-autoprefixer.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^7.1.2",
+    "postcss": "^6.0.9"
+  }
+}
