@@ -1,4 +1,4 @@
-# wepy JS压缩插件
+# wepy框架autoprefixer插件
 
 ## 安装
 
